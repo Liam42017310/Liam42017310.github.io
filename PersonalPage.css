@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+
+html {
+  color : red;
+  background-color : #7fffd4;
+  font-family: 'Roboto Slab', serif;
+}
+
+#college {
+  color : white;
+}
+
+#picture {
+  border: 5px outset red;
+}
+
+#picture1 {
+  border: 5px outset red;
+}
+
+div {
+  text-align: center;
+}
+
+#bio {
+  text-align: center;
+}
