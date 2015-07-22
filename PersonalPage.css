@@ -4,6 +4,7 @@ html {
   color : red;
   background-color : #7fffd4;
   font-family: 'Roboto Slab', serif;
+  text-align: center;
 }
 
 #college {
@@ -23,5 +24,9 @@ div {
 }
 
 #bio {
+  text-align: center;
+}
+
+.me {
   text-align: center;
 }
